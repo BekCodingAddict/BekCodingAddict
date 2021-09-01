@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### The Programming Languages I Have Been Learning.
-<img align="left" alt="C++" src="https://github.com/Optimus970803/VScode_Configration/tree/main/C%2B%2B_Programming/cpp.png
-"/>
-[C++]
+<h1 style="background-color:green;">Hello</h1>
