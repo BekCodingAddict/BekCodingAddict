@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Interesting in All of Programming Languages🤭😂😎
 
-### The Programming Languages I Have Been Learning.
+### Programming Languages & Tools
 
 
 [<img align="left" alt="C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665258-0eefb500-fab0-11ea-9507-72f6ce250a2f.png">](wepsite)
