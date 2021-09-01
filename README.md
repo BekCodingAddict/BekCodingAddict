@@ -21,5 +21,7 @@
 [<img align="left" alt="JAVA" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665384-f59b3880-fab0-11ea-8ef5-c3f2b3358bb6.png">](wepsite)
 [<img align="left" alt="Python" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665388-f764fc00-fab0-11ea-9570-f14672db362c.png">](wepsite)
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/JavaScript.png">](wepsite)
+[<img align="left" alt="HTML" width="26px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/HTML%40.png">](wepsite)
+[<img align="left" alt="CSS" width="26px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/CSS1.jpg">](wepsite)
 <br/>
 <br/>
