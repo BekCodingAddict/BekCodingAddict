@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### The Programming Languages I Have Been Learning.
-(<img align="left" alt="C++" src="![image](https://user-images.githubusercontent.com/70604119/131660435-a852767a-e593-4105-83bd-e3ddc8207957.png)
+(<img align="left" alt="C++" src="![image](https://github.com/Optimus970803/VScode_Configration/tree/main/C%2B%2B_Programming/cpp.png)
 ">)
 [C++]
