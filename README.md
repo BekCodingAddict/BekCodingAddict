@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### The Programming Languages I Have Been Learning.
-<h1><i>C++</i></h1>
+<table>
+  <tr>
+    <td><img alt="C++ Programming Language" src="https://github.com/Optimus970803/VScode_Configration/blob/main/C%2B%2B_Programming/cpp.png"/></td>
+  </tr>
+  <tr>
+    <td><h2>C++</h2></td>
+  </tr>
+</table>
