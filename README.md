@@ -1,15 +1,14 @@
 ### Hi there 👋 
+### I'm Otabek and I'm from Uzbekistan!
+### Currently I Live in Seoul and Study Computer Science and Engineering at Seoul National University of Science and Technology.
 ### Here is What I'm Working on!
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Understanding Wep development
 - 🌱 I’m currently learning ...Fundamentals of Frontend Development
 - 👯 I’m looking to collaborate on ...Wep Development
 - 🤔 I’m looking for help with ...Algoritms
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/) or [My Email Address](<a href="mailto:experte001@gmail.com>Mail</a>
+- 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/) 
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Interesting in All of Programming Languages🤭😂😎
 
