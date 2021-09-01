@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
--->
