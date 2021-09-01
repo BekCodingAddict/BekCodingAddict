@@ -18,4 +18,7 @@ Here are some ideas to get you started:
   <tr>
     <td><img alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
   </tr>
+  <tr>
+    <td><img alt="C Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/C.jpg"/></td>
+  </tr>
 </table>
