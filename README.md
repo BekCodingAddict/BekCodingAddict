@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Wep Development
 - 🤔 I’m looking for help with ...Algoritms
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/)
+- 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/) or [My Email Address](<a href="mailto:experte001@gmail.com>Mail</a>
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Interesting in All of Programming Languages🤭😂😎
 
