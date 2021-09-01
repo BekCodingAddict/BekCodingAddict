@@ -16,12 +16,18 @@
 ### The Programming Languages I Have Been Learning.
 <table>
   <tr>
-    <td><img align="left" alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
+    [<img align="left" alt="Swift" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665170-50cc2b80-faaf-11ea-907c-698f502e3e52.png">][website]
+    [<img align="left" alt="Objective-C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665260-11520f00-fab0-11ea-93ed-91b2865dab20.png">][website]
+    [<img align="left" alt="C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665258-0eefb500-fab0-11ea-9507-72f6ce250a2f.png">][website]
+    [<img align="left" alt="C++" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665259-10b97880-fab0-11ea-8ec5-d997fd483227.png">][website]
+    [<img align="left" alt="JAVA" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665384-f59b3880-fab0-11ea-8ef5-c3f2b3358bb6.png">][website]
+    [<img align="left" alt="Python" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665388-f764fc00-fab0-11ea-9570-f14672db362c.png">][website]
+<!--     <td><img align="left" alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
     <td><img alt="C Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/C.jpg"/></td>
     <td><img alt="Python Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/python.jpg"/></td>
     <td><img alt="JavaScript Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/JavaScript.png"/></td>
     <td><img alt="Java Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/Java1.jpg"/></td>
     <td><img alt="HTML" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/HTML%40.png"/></td>
-    <td><img alt="CSS" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/CSS1.jpg"/></td>
+    <td><img alt="CSS" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/CSS1.jpg"/></td> -->
   </tr>
 </table>
