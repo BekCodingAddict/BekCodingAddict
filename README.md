@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### The Programming Languages I Have Been Learning.
 <table>
   <tr>
-    <td><img alt="C++ Programming Language"  style="width:25px; height:25px" src="https://github.com/Optimus970803/VScode_Configration/blob/main/C%2B%2B_Programming/cpp.png"/></td>
+    <td><img alt="C++ Programming Language" width="128" height="128" src="https://github.com/Optimus970803/VScode_Configration/blob/main/C%2B%2B_Programming/cpp.png"/></td>
   </tr>
   <tr>
     <td><h2>C++</h2></td>
