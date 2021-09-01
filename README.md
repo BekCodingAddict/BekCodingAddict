@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I'm Interesting in All of Programming Languages
 
 ### The Programming Languages I Have Been Learning.
 <table>
