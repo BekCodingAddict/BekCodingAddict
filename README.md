@@ -1,7 +1,8 @@
 ### Hi there 👋 
 ### I'm Otabek and I'm from Uzbekistan!
 ### Currently I Live in Seoul and Study Computer Science and Engineering at Seoul National University of Science and Technology.
-### Here is What I'm Working on!
+
+<h1>Here is What I'm Working on!</h1>
 
 - 🔭 I’m currently working on ...Understanding Wep development
 - 🌱 I’m currently learning ...Fundamentals of Frontend Development
