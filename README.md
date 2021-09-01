@@ -18,8 +18,10 @@ Here are some ideas to get you started:
   <tr>
     <td><img alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
     <td><img alt="C Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/C.jpg"/></td>
-  </tr>
-  <tr>
-    
+    <td><img alt="Python Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/python.jpg"/></td>
+    <td><img alt="JavaScript Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/JavaScript.png"/></td>
+    <td><img alt="Java Programming Language" width="80px" src=" https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/Java.png"/></td>
+    <td><img alt="HTML" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/HTML%40.png"/></td>
+    <td><img alt="CSS" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/CSS1.jpg"/></td>
   </tr>
 </table>
