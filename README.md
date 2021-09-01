@@ -16,7 +16,7 @@
 ### The Programming Languages I Have Been Learning.
 <table>
   <tr>
-    <td><img alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
+    <td><img align="left" alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
     <td><img alt="C Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/C.jpg"/></td>
     <td><img alt="Python Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/python.jpg"/></td>
     <td><img alt="JavaScript Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/JavaScript.png"/></td>
