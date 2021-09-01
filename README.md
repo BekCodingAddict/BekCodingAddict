@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ### The Programming Languages I Have Been Learning.
 <table>
   <tr>
-    <td><img alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp.png"/></td>
+    <td><img alt="C++ Programming Language" width="80px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/cpp%20(1).png"/></td>
   </tr>
 </table>
