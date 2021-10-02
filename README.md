@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Otabek and I'm from Uzbekistan!
+### I'm Otabek and I'm from Uzbekistan! [<img title="Uzbekistan flag!" src="https://flagpedia.net/data/flags/w580/uz.png" width="40px">](wepsite)
 ### Currently I Live in Seoul and Study Computer Science and Engineering at Seoul National University of Science and Technology.
 
 <h1>Here is What I'm Working on!</h1>
