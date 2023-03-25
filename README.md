@@ -13,15 +13,22 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Interesting in All of Programming Languages🤭😂😎
 
-### Programming Languages & Tools
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 
-[<img align="left" title="C" alt="C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665258-0eefb500-fab0-11ea-9507-72f6ce250a2f.png">](wepsite)
-[<img align="left" title="C++" alt="C++" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665259-10b97880-fab0-11ea-8ec5-d997fd483227.png">](wepsite)
-[<img align="left" alt="JAVA" title="Java" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665384-f59b3880-fab0-11ea-8ef5-c3f2b3358bb6.png">](wepsite)
-[<img align="left" alt="Python" title="Python" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665388-f764fc00-fab0-11ea-9570-f14672db362c.png">](wepsite)
-[<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/JavaScript.png">](wepsite)
-[<img align="left" alt="HTML" title="HTML" width="26px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/HTML.png">](wepsite)
-[<img align="left" alt="CSS" title="CSS" width="26px" src="https://github.com/Optimus970803/Optimus970803/blob/main/Source_Files/CSS1.jpg">](wepsite)
-<br/>
-<br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
