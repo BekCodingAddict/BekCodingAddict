@@ -5,7 +5,7 @@
 <h1>Here is What I'm Working on!</h1>
 
 - 🔭 I’m currently working on ...Understanding Wep development
-- 🌱 I’m currently learning ...Fundamentals of Frontend Development,Data Structures and Algoritms.
+- 🌱 I’m currently learning ...MERN Stack ,Data Structures and Algoritms.
 - 👯 I’m looking to collaborate on ...Wep Development
 - 🤔 I’m looking for help with ...Algoritms
 - 💬 Ask me about ...Anything
