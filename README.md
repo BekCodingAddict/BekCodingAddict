@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ...Understanding Wep development
 - 🌱 I’m currently learning ...MERN Stack ,Data Structures and Algoritms.
 - 👯 I’m looking to collaborate on ...Wep Development
-- 🤔 I’m looking for help with ...Algoritms
+- 🤔 I’m looking for help with ...Algoritms and Problem Solving
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/optimus970803/) 
 - 😄 Pronouns: ...He/Him
