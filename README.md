@@ -41,5 +41,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekCodingAddict&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 --
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=light-city&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
-
