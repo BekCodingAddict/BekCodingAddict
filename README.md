@@ -38,9 +38,9 @@
 
 
 ### 🔥 &nbsp; My Stats :
-  <p align=center>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=071A2C)](https://git.io/streak-stats) 
+<!--   <p align=center>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=071A2C)](https://git.io/streak-stats)  -->
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BekCodingAddict&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BekCodingAddict&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/> <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekCodingAddict&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
  </p>
