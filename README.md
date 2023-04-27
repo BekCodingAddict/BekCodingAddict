@@ -39,6 +39,7 @@
 
  ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=071A2C)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavokhirbekTukhtasinov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--  ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg) -->
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekCodingAddict&show_icons=true&theme=transparent)
