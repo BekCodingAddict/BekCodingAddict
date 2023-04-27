@@ -41,5 +41,4 @@
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=071A2C)](https://git.io/streak-stats)  -->
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
