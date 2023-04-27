@@ -37,8 +37,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 
 
-### 🔥 &nbsp; My Stats :
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=071A2C)](https://git.io/streak-stats)  -->
+ ### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BekCodingAddict&theme=dark&background=071A2C)](https://git.io/streak-stats)
 <!--  ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg) -->
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekCodingAddict&show_icons=true&theme=transparent)
