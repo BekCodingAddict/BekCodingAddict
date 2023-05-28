@@ -43,5 +43,6 @@
  
   ![BekCodingAddict's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekCodingAddict&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekCodingAddict&layout=compact&theme=transparent)](https://github.com/BekCodingAddict)
+[Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={https://github.com/BekCodingAddict}&theme={theme_name}&exclude={c++,c,java,javascript,python,html,css})
   
   
