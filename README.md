@@ -10,8 +10,6 @@
 - 🤔 I’m looking for help with ...Algoritms and Problem Solving
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/bek_coding_addict/) 
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I'm Interesting in All of Programming Languages🤭😂😎
 
 ---
 
