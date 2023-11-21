@@ -4,9 +4,9 @@
 
 <h1>Here is What I'm Working on!</h1>
 
-- 🔭 I’m currently working on ...Understanding Wep development
+- 🔭 I’m currently working on ...Fundamental of FrontEnd and BackEnd. 
 - 🌱 I’m currently learning ...MERN Stack ,Data Structures and Algoritms.
-- 👯 I’m looking to collaborate on ...Wep Development Projects
+- 👯 I’m looking to collaborate on ...Any MERN Stack project
 - 🤔 I’m looking for help with ...Algoritms and Problem Solving
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Instagram Page](https://www.instagram.com/bek_coding_addict/) 
