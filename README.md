@@ -10,7 +10,7 @@
 </h2>
 
 - 🎓 I'm a Computer Engineering Student at the SeoulTECH
-- 💻 I’m currently working at MERN Stack
+- 💻 I’m currently working with MERN Stack
 - ⭐ 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love photography, programming,UI & UX Design,Algoritms, data science and books
 
