@@ -9,10 +9,10 @@
 <!--<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a>-->
 </h2>
 
-- 🎓 I'm a Computer Engineering Student at the SeoulTECH
-- 💻 I’m currently working with MERN Stack
-- ⭐ 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love photography, programming,UI & UX Design,Algoritms, data science and books
+- 🎓 Graduated Computer Science and Engineering  at Seoul Tech University
+- 💻 Currently focusing on MERN Stack Development
+- ⭐ 2025 Objective: Contribute more to open-source projects
+- ⚡ Passionate about photography, programming, UI/UX design, algorithms, data science, and reading books
 
 #### Languages and Tools
 
