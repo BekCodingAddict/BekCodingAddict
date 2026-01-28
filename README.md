@@ -10,7 +10,7 @@
 </h2>
 
 - 🎓 Graduated Computer Science and Engineering  at Seoul Tech University
-- 💻 Currently focusing on MERN Stack Development
+- 💻 Currently focusing on Agentic AI and RAG
 - ⭐ 2025 Objective: Contribute more to open-source projects
 - ⚡ Passionate about photography, programming, UI/UX design, algorithms, data science, and reading books
 
